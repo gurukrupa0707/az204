@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AzureWebApp1",
+    "\\AzureWebApp1\\wwwroot",
+    "\\AzureWebApp1\\wwwroot\\css",
+    "\\AzureWebApp1\\wwwroot\\js",
+    "\\AzureWebApp1\\wwwroot\\lib"
   ],
+  "SelectedNode": "\\AzureWebApp1.sln",
   "PreviewInSolutionExplorer": false
 }
