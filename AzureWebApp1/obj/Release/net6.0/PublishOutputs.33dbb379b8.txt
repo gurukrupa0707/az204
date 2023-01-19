@@ -1,0 +1,7 @@
+C:\Users\Sona\Source\Repos\gurukrupa0707\az204\AzureWebApp1\obj\Release\net6.0\PubTmp\Out\AzureWebApp1.exe
+C:\Users\Sona\Source\Repos\gurukrupa0707\az204\AzureWebApp1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Sona\Source\Repos\gurukrupa0707\az204\AzureWebApp1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Sona\Source\Repos\gurukrupa0707\az204\AzureWebApp1\obj\Release\net6.0\PubTmp\Out\AzureWebApp1.dll
+C:\Users\Sona\Source\Repos\gurukrupa0707\az204\AzureWebApp1\obj\Release\net6.0\PubTmp\Out\AzureWebApp1.deps.json
+C:\Users\Sona\Source\Repos\gurukrupa0707\az204\AzureWebApp1\obj\Release\net6.0\PubTmp\Out\AzureWebApp1.runtimeconfig.json
+C:\Users\Sona\Source\Repos\gurukrupa0707\az204\AzureWebApp1\obj\Release\net6.0\PubTmp\Out\AzureWebApp1.pdb
